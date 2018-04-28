@@ -1,0 +1,24 @@
+@font-face {
+    	font-family: "AvenirNext-DemiBold" ;
+   		src: url('fonts/AvenirNext-DemiBold.ttf');
+   		font-weight: 600 ;
+   		font-style: 600 ;
+		}
+	@font-face {
+    	font-family: "AvenirNextCyr-Bold" ;
+   		src: url('fonts/AvenirNextCyr-Bold.ttf');
+   		font-weight: bold;
+   		font-style: bold;
+		}
+	@font-face {
+    	font-family: "AvenirNextCyr-Medium" ;
+   		src: url('fonts/AvenirNextCyr-Medium.ttf');
+   		font-weight: medium;
+   		font-style: medium;
+		}
+	@font-face {
+    	font-family: "AvenirNextCyr-Regular" ;
+   		src: url('fonts/AvenirNextCyr-Regular.ttf');
+   		font-weight: lighter;
+   		font-style: lighter;
+		}
